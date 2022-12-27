@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.team.svn.core.svnnature">
+<project reference="1.0.1,https://github.com/dandar3/android-google-auto-value-annotations/tags/1.0.0,google-auto-value-annotations,b09ac91de585001d165fcbca46764a02;https://github.com/dandar3/android-google-auto-value-annotations;https://github.com/dandar3/android-google-auto-value-annotations;branches;tags;trunk;true;635426af-92c6-0f91-62df-ce57b7db7bff;https://github.com/dandar3/android-google-auto-value-annotations;;false;;;0"/>
+</provider>
+</psf>
